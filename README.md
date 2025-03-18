@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi there! I'm a **Computer Science & Mathematics** student at *CFIS - UPC* 🎓✨
+💻 I love applying math concepts to programming, solving problems, and optimizing algorithms!
+🚀 Currently looking for opportunities to expand my knowledge in a practical setting, like a summer internship.
+👩‍🏫 I mentor young coders, helping them develop problem-solving and programming skills.
+
+🌱 Always curious, always learning!
